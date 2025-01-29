@@ -6,3 +6,8 @@ body {
     /*adding white*/
     background-color: azure;
 }
+
+li {
+    border: 2px red solid;
+    color: aqua;
+}
